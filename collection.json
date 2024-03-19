@@ -2,5 +2,5 @@
     "name": "Traumakit Sample Project",
     "description": "A Traumakit project for minting NFTs on Immutable zkEVM",
     "image": "https://github.com/sergiotrautmann/sample-project-metadata/blob/main/collection.webp",
-    "external_link": "https://immutable.com" 
+    "external_link": null
 }
